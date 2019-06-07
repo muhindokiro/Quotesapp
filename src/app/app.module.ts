@@ -20,6 +20,7 @@ import { DateCountPipe } from './date-count.pipe';
     BrowserModule,
     FormsModule
   ],
+  
   providers: [],
   bootstrap: [AppComponent]
 })
