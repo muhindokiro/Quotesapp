@@ -11,5 +11,4 @@ export class DateCountPipe implements PipeTransform {
     let todayWithNoTime:any = new Date(today.getFullYear(),today.getMonth(),today.getDate())
     return null;
   }
-
 }
