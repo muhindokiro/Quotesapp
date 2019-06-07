@@ -7,12 +7,14 @@ By Muhindo Kiro
 
 Description
 ------------
-This is a quotes application where a user can generate their own quotes or write a quote of a special person 
+This is a quotes application where a user can generate their own quotes or a quote of a famous writer or celebrity. 
 
 Requirements
 -------------
 
-You need an electrical device phone, ipad, laptop,smart tv or any others with internet connection.
+Internet connection.
+
+Application livesite.
 
 
 Technologies Used
@@ -22,16 +24,34 @@ Technologies Used
 
 -CSS.
 
+-Angular 6
+
 -Typescript.
+
+Behaviour Driven Development
+----------------------------
+Input
+-------
+-Type your name
+-Type your desired quote
+-Type the auothor of the quote
+-Select the date
+-Click add quote button
+
+Output
+-------
+-Name of user
+-Quote
+-Name of author
+
 
 Project livesite
 ------------------
-https://github.com/muhindokiro/quotes.git
+https://github.com/muhindokiro/quotesapp.git
 
 
 Contact details
 ----------------
-How to contact me;
 
 Emails
 --------
