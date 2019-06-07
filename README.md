@@ -1,27 +1,48 @@
-# Work
+Quotes App
+-------------------
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
+4/06/2019
 
-## Development server
+By Muhindo Kiro
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Description
+------------
+This is a quotes application where a user can generate their own quotes or write a quote of a special person 
 
-## Code scaffolding
+Requirements
+-------------
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You need an electrical device phone, ipad, laptop,smart tv or any others with internet connection.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Technologies Used
+------------------
 
-## Running unit tests
+-HTML language.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-CSS.
 
-## Running end-to-end tests
+-Typescript.
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Project livesite
+------------------
+https://github.com/muhindokiro/quotes.git
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Contact details
+----------------
+How to contact me;
+
+Emails
+--------
+linquotes34@gmail.com
+
+Phone no.
+---------
+
+1. +254754237845*
+
+
+License MIT License (MIT)
+
+Copyright (c) 2019 Muhindo Kiro

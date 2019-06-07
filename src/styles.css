@@ -1,8 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~bootstrap/dist/css/bootstrap.css";
 body{
-    background-color: grey;
-}
-h1{
-    color: yellow;
+    background-image: url(./bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:  'Indie Flower', cursive;
+    font-size: 20px;
 }

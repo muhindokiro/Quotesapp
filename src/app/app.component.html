@@ -1,12 +1,12 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<h1>My Goals</h1>
-<app-goal></app-goal>
-<app-goal-details></app-goal-details>
-<hr>
+<div style="text-align:center">
+<h1>{{title}}</h1>
+</div>
+<br>
+<app-quote></app-quote>
 
 
-<ul>
-  <li *ngFor='let goal of goals'>{{goal.name}}</li>
-</ul>
-<p *ngIf='goals.length > 5'>You have too many goals</p>
+
+
+
 
