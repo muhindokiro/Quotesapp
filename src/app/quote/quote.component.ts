@@ -10,7 +10,6 @@ import {Quote} from '../quote'
 export class QuoteComponent implements OnInit {
   quotes = [
       new Quote('Leon','Not all treasure is silver and gold, mate','Johnny Depp',new Date(2019,6,1)),
-
   ]
 
   deleteQuote(isComplete,index){
